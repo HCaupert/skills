@@ -1,0 +1,5 @@
+interface:
+  display_name: "To PR"
+  short_description: "Take a request to an open pull request"
+policy:
+  allow_implicit_invocation: false
