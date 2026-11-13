@@ -1,0 +1,5 @@
+interface:
+  display_name: "Housekeeping"
+  short_description: "Ship one small change that leaves the codebase simpler"
+policy:
+  allow_implicit_invocation: false
